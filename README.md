@@ -4,7 +4,7 @@
 
 [ライセンス](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master?tab=License-1-ov-file#readme)には注意してください。
 
-<details><summary><b>Visual 本リポジトリはそのままでは使えません。クリックして実行方法を参照してください。</b></summary>
+<details><summary><b>本リポジトリはそのままでは使えません。クリックして実行方法を参照してください。</b></summary>
 
 # Visual Studio Codeでの実行方法
 
