@@ -1,10 +1,10 @@
 東京大学 数理・情報教育研究センターの[Pythonプログラミング入門](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master)を使わせていただきます。
 
-リポジトリにあるipynbファイルをVisual Studio Codeで実行することを目指します。
+「入門」にあるipynbファイルをVisual Studio Codeで実行することを目指します。
 
 [ライセンス](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master?tab=License-1-ov-file#readme)には注意してください。
 
-<details><summary><b>Visual Studio Codeでの実行方法についての詳細は、こちらをクリックしてください</b></summary>
+<details><summary><b>Visual 本リポジトリはそのままでは使えません。クリックして実行方法を参照してください。</b></summary>
 
 # Visual Studio Codeでの実行方法
 
