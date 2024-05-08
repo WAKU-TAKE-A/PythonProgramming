@@ -1,35 +1,46 @@
-東京大学 数理・情報教育研究センターの[Pythonプログラミング入門](https://utokyo-ipp.github.io/)を使わせていただきます。
+東京大学 数理・情報教育研究センターの[Pythonプログラミング入門](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master)を使わせていただきます。
 
 [ライセンス](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master?tab=License-1-ov-file#readme)には注意してください。
 
+<details><summary><b>Visual Studio Codeでの実行方法についての詳細は、こちらをクリックしてください</b></summary>
+
 # Visual Studio Codeでの実行方法
 
-[Pythonプログラミング入門](https://utokyo-ipp.github.io/)にあるipynbファイルをVisual Studio Codeで実行することを目指します。
+[Pythonプログラミング入門](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master)にあるipynbファイルをVisual Studio Codeで実行することを目指します。
 
 まず、Visual Studio Codeには、「Python」（Microsoft）と「Jupyter」（Microsoft）のプラグインを入れてください。
 
-次に、本リポジトリのzipをダウンロードして、展開してください（フォルダX）。
+次に、本リポジトリのzipをダウンロードして、展開してください（フォルダX）。<br>
+![2024-05-08_200324.jpg](./img/2024-05-08_200324.jpg)
 
 「.vscode」フォルダの「settings.json」を開き、python.exeがある正しいパスに修正してください。
 
 Visual Studio Codeを起動し、フォルダXを開いてください。
 
-ReadMe.mdを開き、![2024-05-08_185809.jpg](./img/2024-05-08_185809.jpg)でプレビューを開いてください。
+ReadMe.mdを開きます。<br>
+![2024-05-08_185809.jpg](./img/2024-05-08_185809.jpg)<br>
+でプレビューを開いてください。
 
-学習したい内容のリンク先をクリックするとブラウザが開きます。 ![2024-05-08_184552.jpg](./img/2024-05-08_184552.jpg) をクリックして、フォルダXにダウンロードしてください。
+学習したい内容のリンク先をクリックするとブラウザが開きます。<br>
+ ![2024-05-08_184552.jpg](./img/2024-05-08_184552.jpg) <br>
+ をクリックして、フォルダXにダウンロードしてください。
 
-![2024-05-08_191924.jpg](./img/2024-05-08_191924.jpg) Visual Studio Codeで開いてください。
+Visual Studio Codeで開いてください。<br>
+![2024-05-08_191924.jpg](./img/2024-05-08_191924.jpg) 
 
-![2024-05-08_190150.jpg](./img/2024-05-08_190150.jpg) [カーネルの選択]をクリック ⇒ Pythonの環境 ⇒ 上記python.exeのパスが正しければ、おすすめに表示されるので選択してください
+![2024-05-08_190150.jpg](./img/2024-05-08_190150.jpg)<br>
+ [カーネルの選択]をクリック ⇒ Pythonの環境 ⇒ 上記python.exeのパスが正しければ、おすすめに表示されるので選択してください
 
 Jupyter Notebookで表示されると思います。Pythonを実行することも可能です。<br>
 ![2024-05-08_192146.jpg](./img/2024-05-08_192146.jpg)
+
+</details>
 
 # 学習の順番
 
 レベル1は最低でも勉強しましょう。
 
-❆
+❆<br>
 学習の順番をオリジナルと変えています。<br>
 また、難解なものは省略しています。<br>
 省略したものは、以下を一通り学習してから勉強してみてください。
@@ -53,7 +64,7 @@ Jupyter Notebookで表示されると思います。Pythonを実行すること�
 
 # レベル2
 
-1. [辞書 (dictionary)](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/colab/3/3-1.ipynb)
+12. [辞書 (dictionary)](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/colab/3/3-1.ipynb)
 1. [ファイル入出力の基本](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/colab/4/4-1.ipynb)
     * 最初のセルは実行しないこと。
 1. [CSVファイルの入出力](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/colab/appendix/4-csv.ipynb)
@@ -63,7 +74,7 @@ Jupyter Notebookで表示されると思います。Pythonを実行すること�
 
 # レベル3
 
-1. [NumPyライブラリ](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/colab/5/5-3.ipynb)
+16. [NumPyライブラリ](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/colab/5/5-3.ipynb)
     * 最初のセルは実行しないこと。
 1. [pandasライブラリ](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/colab/7/7-1.ipynb)
     * 最初のセルは実行しないこと。
