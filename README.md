@@ -2,7 +2,7 @@
 
 「入門」にあるipynbファイルをVisual Studio Codeで実行することを目指します。
 
-[ライセンス](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master?tab=License-1-ov-file#readme)には注意してください。
+[ライセンス](https://github.com/UTokyo-IPP/utokyo-ipp.github.io/tree/master?tab=License-1-ov-file#readme)には注意してください。（「表示」「非営利」「改変禁止」「継承」において再配布可能なライセンスです。[こちら](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)を参照。）
 
 <details><summary><b>本リポジトリはそのままでは使えません。クリックして実行方法を参照してください。</b></summary>
 
@@ -10,7 +10,7 @@
 
 まず、Visual Studio Codeには、「Python」（Microsoft）と「Jupyter」（Microsoft）のプラグインを入れてください。
 
-本リポジトリのzipをダウンロードして、展開してください（フォルダX）。<br>
+本リポジトリのzipをダウンロードして、展開してください（フォルダXとします）。<br>
 ![2024-05-08_200324.jpg](./img/2024-05-08_200324.jpg)<br>
 図1
 
